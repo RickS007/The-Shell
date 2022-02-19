@@ -119,7 +119,7 @@
 
     &-header {
         a {
-            color: #00bf6165;
+            color: $contessa;
             transition: color ease 0.3s;
             &:hover {
                 color: $selection-background-and-link-hover;
